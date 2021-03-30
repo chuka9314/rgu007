@@ -1,0 +1,38 @@
+table {
+    width: 60%;
+    margin: 30 auto;
+	border: 1px solid black;
+    border-collapse: collapse;
+	padding: 2px;
+}
+th,td{
+	border-collapse: collapse;
+    padding: 2px;
+	text-align: center;
+	border: 1px solid black;
+	border-collapse: collapse;
+	height: 30px;
+	line-height: normal;
+	
+
+}
+
+tr {
+	border-bottom: 1px solid black;
+	height: 20px;
+    padding: 2px;
+}
+
+th {
+	font-size: 19px;
+	color: black;
+	
+}
+
+tr:hover {
+	background: #8ca1bb;
+}
+
+.Tasks {
+	text-align: left;
+}
