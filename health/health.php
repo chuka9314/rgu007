@@ -13,12 +13,12 @@
     </div>
         
     <div class="navbar">
-        <a class="active" href="#"><i class="fa fa-fw fa-home"></i> Home</a>
+        <a class="active" href="#"> Home</a>
         <a href="#">About</a>
         <a href="#">News</a>
-        <a href="#"><i class="fa fa-fw fa-envelope"></i> Contact</a>
-        <a href="h.php"> Sign up</a>
-        <a href="health_login.php"><i class="fa fa-fw fa-user"></i> Login</a>
+        <a href="contact.php"> Contact</a>
+        <a href="register.php"> Sign up</a>
+        <a href="health_login.php"> Login</a>
     </div>
     <div class="row">
         <div class="side">
